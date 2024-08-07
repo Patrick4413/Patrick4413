@@ -1,8 +1,9 @@
 ## Hi Everyone!!! 👋
-My namen is Patrick and I am a high school computer science and techology teacher.
+My name is Patrick and I am a high school computer science and techology teacher.
 I'm currently working on updating my coding courses for the upcoming school year (2024/25).
+I'm currently learning how to code spheros, arduinos and raspberry pi.
 
-I am a big sports fan (Maple Leafs, Seahawks, Astros, Kraken) and music fan (Radiohead, Pearl Jam).
+I am a big sports fan and music fan.
 
 <!--
 **Patrick4413/Patrick4413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
